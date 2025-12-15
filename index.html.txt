@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Mi primer proyecto web</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <h1>Hola, este es mi primer proyecto web</h1>
+  <p>Estoy aprendiendo HTML, CSS y JavaScript.</p>
+
+  <button id="btn">Haz clic</button>
+
+  <script src="script.js"></script>
+</body>
+</html>
